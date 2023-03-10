@@ -31,6 +31,7 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: Monash University
+    url: https://www.monash.edu
 education:
   courses:
     - course: PhD in Artificial Intelligence
