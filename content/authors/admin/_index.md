@@ -1,9 +1,8 @@
 ---
 title: Francisco Lang
-role: Professor of Artificial Intelligence
+role: Research Affiliate
 avatar_filename: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "Interests:"
 interests:
   - Artificial Intelligence
   - Computational Linguistics
