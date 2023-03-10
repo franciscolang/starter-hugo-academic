@@ -4,9 +4,9 @@ role: Research Affiliate
 avatar_filename: ""
 bio: "Interests:"
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Precipitation
+  - Clouds
+  - Weather
 social:
   - icon: envelope
     icon_pack: fas
